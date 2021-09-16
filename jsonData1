@@ -2,6 +2,7 @@
     "employee": {  
         "name":       "sonooooo",   
         "salary":      56000,   
-        "married":    true  
+        "married":    true  ,
+        "single":     false
     }  
 }  
